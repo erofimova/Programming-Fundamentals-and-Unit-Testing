@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourOperations", "FourOpera
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Market", "Market\Market.csproj", "{0026EC83-7678-4183-8E1C-6AB1A5D30608}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Key Concepts", "Key Concepts", "{0A422111-69AC-4206-82A8-7D11A35377EA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Key Concepts - Lab", "Key Concepts - Lab", "{0A422111-69AC-4206-82A8-7D11A35377EA}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Types and Variables", "Data Types and Variables", "{DF435D41-6D1E-45A3-840D-41642956C485}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Types and Variables - Lab", "Data Types and Variables - Lab", "{DF435D41-6D1E-45A3-840D-41642956C485}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple Conditional Statements", "Simple Conditional Statements", "{9D6BF4C7-35B0-4642-975B-F3801FA8E347}"
 EndProject
