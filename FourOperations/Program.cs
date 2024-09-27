@@ -1,0 +1,10 @@
+﻿double firstNum = double.Parse(Console.ReadLine());
+double secondNum  = double.Parse(Console.ReadLine());
+double sum = firstNum + secondNum;
+double diff  = firstNum - secondNum;
+double product = firstNum * secondNum;
+double division = firstNum / secondNum;
+Console.WriteLine($"{firstNum:F2} + {secondNum:F2} = {sum:F2}");
+Console.WriteLine($"{firstNum:F2} - {secondNum:F2} = {diff:F2}");
+Console.WriteLine($"{firstNum:F2} * {secondNum:F2} = {product:F2}");
+Console.WriteLine($"{firstNum:F2} / {secondNum:F2} = {division:F2}");
