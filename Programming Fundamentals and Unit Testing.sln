@@ -63,17 +63,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Even or Odd", "2. Even o
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Number 1…9 as Words", "3. Number 1…9 as Words\3. Number 1…9 as Words.csproj", "{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Greater Number", "4. Greater Number\4. Greater Number.csproj", "{FFD07AAC-5B81-4993-A98A-09BDFEDCEF9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Greater Number", "4. Greater Number\4. Greater Number.csproj", "{FFD07AAC-5B81-4993-A98A-09BDFEDCEF9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Guess the Password", "5. Guess the Password\5. Guess the Password.csproj", "{2C6406A4-5327-4D0E-B27E-B563A5949130}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Guess the Password", "5. Guess the Password\5. Guess the Password.csproj", "{2C6406A4-5327-4D0E-B27E-B563A5949130}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Boiling Water", "6. Boiling Water\6. Boiling Water.csproj", "{7FBE6827-B6AF-4119-A6CA-76E9539CF4E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Boiling Water", "6. Boiling Water\6. Boiling Water.csproj", "{7FBE6827-B6AF-4119-A6CA-76E9539CF4E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Speed Info", "7. Speed Info\7. Speed Info.csproj", "{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Speed Info", "7. Speed Info\7. Speed Info.csproj", "{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Ticket Price", "8. Ticket Price\8. Ticket Price.csproj", "{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Ticket Price", "8. Ticket Price\8. Ticket Price.csproj", "{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Valid Triangle", "9. Valid Triangle\9. Valid Triangle.csproj", "{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Valid Triangle", "9. Valid Triangle\9. Valid Triangle.csproj", "{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Complex Conditional Statements", "Complex Conditional Statements", "{C287D6A8-11C1-4A79-8C35-DCE26522D8AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Market Place", "1. Market Place\1. Market Place.csproj", "{7A24B26F-B35E-4BE1-AAB2-64378481CB1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -209,6 +213,10 @@ Global
 		{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -246,6 +254,7 @@ Global
 		{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
+		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
