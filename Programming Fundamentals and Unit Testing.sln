@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Freezing Weather", "1. F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Even or Odd", "2. Even or Odd\2. Even or Odd.csproj", "{F4293605-0BD5-457D-87BE-E0810EE4E1D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Number 1…9 as Words", "3. Number 1…9 as Words\3. Number 1…9 as Words.csproj", "{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{F4293605-0BD5-457D-87BE-E0810EE4E1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4293605-0BD5-457D-87BE-E0810EE4E1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4293605-0BD5-457D-87BE-E0810EE4E1D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEC9BFF-A711-41F9-83BB-22B95C9A9013}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +203,7 @@ Global
 		{BDEC1834-BA4B-4154-8455-4C116EAD4CEF} = {439EC749-783C-4A58-8751-9D95A61046F4}
 		{1F20B1E2-8A18-4613-BD48-11A2F5E80840} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{F4293605-0BD5-457D-87BE-E0810EE4E1D6} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
+		{5EEC9BFF-A711-41F9-83BB-22B95C9A9013} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
