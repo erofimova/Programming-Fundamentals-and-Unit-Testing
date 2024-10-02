@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Boiling Water", "6. Boil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Speed Info", "7. Speed Info\7. Speed Info.csproj", "{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Ticket Price", "8. Ticket Price\8. Ticket Price.csproj", "{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -232,6 +238,7 @@ Global
 		{2C6406A4-5327-4D0E-B27E-B563A5949130} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{7FBE6827-B6AF-4119-A6CA-76E9539CF4E2} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{462D1B49-80C1-43BA-9FD2-99C1BB3FA0DE} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
+		{646BB4A1-86D4-43A2-8164-3DD3F7E2FDED} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
