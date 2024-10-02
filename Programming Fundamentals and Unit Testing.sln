@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Market Place", "1. Marke
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Largest Number Out Of Three", "2. Largest Number Out Of Three\2. Largest Number Out Of Three.csproj", "{52266B19-F80D-4E11-970E-099ABC546F3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Bonus Score", "3. Bonus Score\3. Bonus Score.csproj", "{16923086-EB6A-4EEE-891C-850178598D24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +225,10 @@ Global
 		{52266B19-F80D-4E11-970E-099ABC546F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52266B19-F80D-4E11-970E-099ABC546F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52266B19-F80D-4E11-970E-099ABC546F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16923086-EB6A-4EEE-891C-850178598D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16923086-EB6A-4EEE-891C-850178598D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16923086-EB6A-4EEE-891C-850178598D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16923086-EB6A-4EEE-891C-850178598D24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -262,6 +268,7 @@ Global
 		{3A51060E-25F8-4A26-BD1A-4A4B52CB5DA2} = {9D6BF4C7-35B0-4642-975B-F3801FA8E347}
 		{7A24B26F-B35E-4BE1-AAB2-64378481CB1C} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 		{52266B19-F80D-4E11-970E-099ABC546F3F} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
+		{16923086-EB6A-4EEE-891C-850178598D24} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
