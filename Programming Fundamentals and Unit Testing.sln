@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Invalid Number", "5. Inv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Day Of Week", "6. Day Of Week\6. Day Of Week.csproj", "{DB6D263B-9A9F-4177-A269-A87EF08848EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Vowel or Consonant", "7. Vowel or Consonant\7. Vowel or Consonant.csproj", "{F0E8262C-8AF6-4486-9756-1A434576989F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -247,6 +249,10 @@ Global
 		{DB6D263B-9A9F-4177-A269-A87EF08848EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB6D263B-9A9F-4177-A269-A87EF08848EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB6D263B-9A9F-4177-A269-A87EF08848EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E8262C-8AF6-4486-9756-1A434576989F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E8262C-8AF6-4486-9756-1A434576989F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E8262C-8AF6-4486-9756-1A434576989F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E8262C-8AF6-4486-9756-1A434576989F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -290,6 +296,7 @@ Global
 		{074C5420-418E-4F81-AEE0-2121A6F1D479} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 		{8D47E723-DF0D-4169-AC8E-3C42B9107F6D} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 		{DB6D263B-9A9F-4177-A269-A87EF08848EC} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
+		{F0E8262C-8AF6-4486-9756-1A434576989F} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
