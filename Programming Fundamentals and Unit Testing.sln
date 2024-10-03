@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Number Type", "1. Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. ATM", "2. ATM\2. ATM.csproj", "{CF927E2A-D655-42DF-80CE-A91E68A0D67C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Biggest of Five Numbers", "3. Biggest of Five Numbers\3. Biggest of Five Numbers.csproj", "{43CF4145-20BD-4240-B0E4-306CF63E7E58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{CF927E2A-D655-42DF-80CE-A91E68A0D67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF927E2A-D655-42DF-80CE-A91E68A0D67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF927E2A-D655-42DF-80CE-A91E68A0D67C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43CF4145-20BD-4240-B0E4-306CF63E7E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43CF4145-20BD-4240-B0E4-306CF63E7E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43CF4145-20BD-4240-B0E4-306CF63E7E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43CF4145-20BD-4240-B0E4-306CF63E7E58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -327,6 +333,7 @@ Global
 		{C8701F7A-426B-4726-9565-541F2E87E892} = {C287D6A8-11C1-4A79-8C35-DCE26522D8AB}
 		{FB1D05E0-86E0-4A02-A6A5-79BF42DA247F} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{CF927E2A-D655-42DF-80CE-A91E68A0D67C} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
+		{43CF4145-20BD-4240-B0E4-306CF63E7E58} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
