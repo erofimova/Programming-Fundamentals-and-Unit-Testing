@@ -113,6 +113,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Working Hours", "7. Work
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Fruit or Vegetable", "8. Fruit or Vegetable\8. Fruit or Vegetable.csproj", "{257E5FF9-6C89-4692-9B62-9A50BA027A33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Sum Seconds", "9. Sum Seconds\9. Sum Seconds.csproj", "{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -315,6 +317,10 @@ Global
 		{257E5FF9-6C89-4692-9B62-9A50BA027A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{257E5FF9-6C89-4692-9B62-9A50BA027A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{257E5FF9-6C89-4692-9B62-9A50BA027A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -369,6 +375,7 @@ Global
 		{7C18A763-25A1-455D-9644-4D6F837433CC} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{FCE48F1D-91D3-4E2A-8F31-96065C4E7C97} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{257E5FF9-6C89-4692-9B62-9A50BA027A33} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
+		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
