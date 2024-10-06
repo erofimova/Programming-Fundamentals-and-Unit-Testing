@@ -107,6 +107,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Number Operations", "4. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Vacation Expenses", "5. Vacation Expenses\5. Vacation Expenses.csproj", "{1E1988C2-8BB4-42F4-B701-E5A980D1D893}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Product of Three Numbers", "6. Product of Three Numbers\6. Product of Three Numbers.csproj", "{7C18A763-25A1-455D-9644-4D6F837433CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{1E1988C2-8BB4-42F4-B701-E5A980D1D893}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E1988C2-8BB4-42F4-B701-E5A980D1D893}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E1988C2-8BB4-42F4-B701-E5A980D1D893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C18A763-25A1-455D-9644-4D6F837433CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C18A763-25A1-455D-9644-4D6F837433CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C18A763-25A1-455D-9644-4D6F837433CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C18A763-25A1-455D-9644-4D6F837433CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -348,6 +354,7 @@ Global
 		{43CF4145-20BD-4240-B0E4-306CF63E7E58} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{C2EA5F6D-7C01-43C4-A742-86A6774FA1C4} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{1E1988C2-8BB4-42F4-B701-E5A980D1D893} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
+		{7C18A763-25A1-455D-9644-4D6F837433CC} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
