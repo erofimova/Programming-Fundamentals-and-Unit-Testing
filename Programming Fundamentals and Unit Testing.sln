@@ -105,17 +105,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Biggest of Five Numbers"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Number Operations", "4. Number Operations\4. Number Operations.csproj", "{C2EA5F6D-7C01-43C4-A742-86A6774FA1C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Vacation Expenses", "5. Vacation Expenses\5. Vacation Expenses.csproj", "{1E1988C2-8BB4-42F4-B701-E5A980D1D893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Vacation Expenses", "5. Vacation Expenses\5. Vacation Expenses.csproj", "{1E1988C2-8BB4-42F4-B701-E5A980D1D893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Product of Three Numbers", "6. Product of Three Numbers\6. Product of Three Numbers.csproj", "{7C18A763-25A1-455D-9644-4D6F837433CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Product of Three Numbers", "6. Product of Three Numbers\6. Product of Three Numbers.csproj", "{7C18A763-25A1-455D-9644-4D6F837433CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Working Hours", "7. Working Hours\7. Working Hours.csproj", "{FCE48F1D-91D3-4E2A-8F31-96065C4E7C97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Working Hours", "7. Working Hours\7. Working Hours.csproj", "{FCE48F1D-91D3-4E2A-8F31-96065C4E7C97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Fruit or Vegetable", "8. Fruit or Vegetable\8. Fruit or Vegetable.csproj", "{257E5FF9-6C89-4692-9B62-9A50BA027A33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Fruit or Vegetable", "8. Fruit or Vegetable\8. Fruit or Vegetable.csproj", "{257E5FF9-6C89-4692-9B62-9A50BA027A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9. Sum Seconds", "9. Sum Seconds\9. Sum Seconds.csproj", "{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9. Sum Seconds", "9. Sum Seconds\9. Sum Seconds.csproj", "{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Summer Outfit", "10. Summer Outfit\10. Summer Outfit.csproj", "{FAEA8A0E-C93D-4E41-8486-3027801AA17A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Summer Outfit", "10. Summer Outfit\10. Summer Outfit.csproj", "{FAEA8A0E-C93D-4E41-8486-3027801AA17A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "For Loop", "For Loop", "{FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers in Range", "1. Numbers in Range\1. Numbers in Range.csproj", "{815514BB-323B-4857-AF93-D570D3BAF397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -327,6 +331,10 @@ Global
 		{FAEA8A0E-C93D-4E41-8486-3027801AA17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAEA8A0E-C93D-4E41-8486-3027801AA17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAEA8A0E-C93D-4E41-8486-3027801AA17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{815514BB-323B-4857-AF93-D570D3BAF397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815514BB-323B-4857-AF93-D570D3BAF397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815514BB-323B-4857-AF93-D570D3BAF397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815514BB-323B-4857-AF93-D570D3BAF397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -383,6 +391,7 @@ Global
 		{257E5FF9-6C89-4692-9B62-9A50BA027A33} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{FAEA8A0E-C93D-4E41-8486-3027801AA17A} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
+		{815514BB-323B-4857-AF93-D570D3BAF397} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
