@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Numbers From 1 to N over
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Exam Countdown", "6. Exam Countdown\6. Exam Countdown.csproj", "{DF732768-C233-4FC9-848D-45470C15C0D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Latin Letters", "7. Latin Letters\7. Latin Letters.csproj", "{E36CF651-AE1A-4768-9B68-CBB37D881CD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -365,6 +367,10 @@ Global
 		{DF732768-C233-4FC9-848D-45470C15C0D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF732768-C233-4FC9-848D-45470C15C0D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF732768-C233-4FC9-848D-45470C15C0D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -427,6 +433,7 @@ Global
 		{41676913-CF38-49A2-A3D2-C1B35680C285} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{97BB873F-CD23-45A1-94E2-07E6502904ED} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{DF732768-C233-4FC9-848D-45470C15C0D7} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
+		{E36CF651-AE1A-4768-9B68-CBB37D881CD9} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
