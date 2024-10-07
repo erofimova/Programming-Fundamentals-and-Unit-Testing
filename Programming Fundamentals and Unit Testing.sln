@@ -137,6 +137,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "While Loop", "While Loop", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers 1 to 100", "1. Numbers 1 to 100\1. Numbers 1 to 100.csproj", "{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Decreasing Numbers", "2. Decreasing Numbers\2. Decreasing Numbers.csproj", "{803CEDB0-03A8-44EA-A953-65C1495A899B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -379,6 +381,10 @@ Global
 		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803CEDB0-03A8-44EA-A953-65C1495A899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803CEDB0-03A8-44EA-A953-65C1495A899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803CEDB0-03A8-44EA-A953-65C1495A899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803CEDB0-03A8-44EA-A953-65C1495A899B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -443,6 +449,7 @@ Global
 		{DF732768-C233-4FC9-848D-45470C15C0D7} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{E36CF651-AE1A-4768-9B68-CBB37D881CD9} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
+		{803CEDB0-03A8-44EA-A953-65C1495A899B} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
