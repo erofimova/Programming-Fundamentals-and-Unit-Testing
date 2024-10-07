@@ -121,6 +121,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "For Loop", "For Loop", "{FF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers in Range", "1. Numbers in Range\1. Numbers in Range.csproj", "{815514BB-323B-4857-AF93-D570D3BAF397}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. First N Numbers Sum", "2. First N Numbers Sum\2. First N Numbers Sum.csproj", "{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -335,6 +337,10 @@ Global
 		{815514BB-323B-4857-AF93-D570D3BAF397}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{815514BB-323B-4857-AF93-D570D3BAF397}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{815514BB-323B-4857-AF93-D570D3BAF397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -392,6 +398,7 @@ Global
 		{CEC4E1A5-1B83-4A86-9410-D8E7E3802EE4} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{FAEA8A0E-C93D-4E41-8486-3027801AA17A} = {CBDD3F42-F20E-4F77-B043-77B35D5375BB}
 		{815514BB-323B-4857-AF93-D570D3BAF397} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
+		{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
