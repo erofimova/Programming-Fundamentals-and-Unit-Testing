@@ -133,6 +133,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Exam Countdown", "6. Exa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Latin Letters", "7. Latin Letters\7. Latin Letters.csproj", "{E36CF651-AE1A-4768-9B68-CBB37D881CD9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "While Loop", "While Loop", "{AE6CE445-2FAE-41D9-898E-52DC58598316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers 1 to 100", "1. Numbers 1 to 100\1. Numbers 1 to 100.csproj", "{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -371,6 +375,10 @@ Global
 		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E36CF651-AE1A-4768-9B68-CBB37D881CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -434,6 +442,7 @@ Global
 		{97BB873F-CD23-45A1-94E2-07E6502904ED} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{DF732768-C233-4FC9-848D-45470C15C0D7} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
 		{E36CF651-AE1A-4768-9B68-CBB37D881CD9} = {FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}
+		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
