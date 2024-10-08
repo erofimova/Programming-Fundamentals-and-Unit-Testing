@@ -119,27 +119,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10. Summer Outfit", "10. Su
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "For Loop", "For Loop", "{FF864A51-A7A8-4AD7-BA53-6C9ACCA0185F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers in Range", "1. Numbers in Range\1. Numbers in Range.csproj", "{815514BB-323B-4857-AF93-D570D3BAF397}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Numbers in Range", "1. Numbers in Range\1. Numbers in Range.csproj", "{815514BB-323B-4857-AF93-D570D3BAF397}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. First N Numbers Sum", "2. First N Numbers Sum\2. First N Numbers Sum.csproj", "{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. First N Numbers Sum", "2. First N Numbers Sum\2. First N Numbers Sum.csproj", "{98AC4C98-58BB-4ED6-ABA3-6B1B22C66F57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Sum Numbers", "3. Sum Numbers\3. Sum Numbers.csproj", "{3388A1CB-0C9E-4E39-994E-7980D483DDF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Sum Numbers", "3. Sum Numbers\3. Sum Numbers.csproj", "{3388A1CB-0C9E-4E39-994E-7980D483DDF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Numbers Ending in 7", "4. Numbers Ending in 7\4. Numbers Ending in 7.csproj", "{41676913-CF38-49A2-A3D2-C1B35680C285}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Numbers Ending in 7", "4. Numbers Ending in 7\4. Numbers Ending in 7.csproj", "{41676913-CF38-49A2-A3D2-C1B35680C285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Numbers From 1 to N over 3", "5. Numbers From 1 to N over 3\5. Numbers From 1 to N over 3.csproj", "{97BB873F-CD23-45A1-94E2-07E6502904ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Numbers From 1 to N over 3", "5. Numbers From 1 to N over 3\5. Numbers From 1 to N over 3.csproj", "{97BB873F-CD23-45A1-94E2-07E6502904ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Exam Countdown", "6. Exam Countdown\6. Exam Countdown.csproj", "{DF732768-C233-4FC9-848D-45470C15C0D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Exam Countdown", "6. Exam Countdown\6. Exam Countdown.csproj", "{DF732768-C233-4FC9-848D-45470C15C0D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Latin Letters", "7. Latin Letters\7. Latin Letters.csproj", "{E36CF651-AE1A-4768-9B68-CBB37D881CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Latin Letters", "7. Latin Letters\7. Latin Letters.csproj", "{E36CF651-AE1A-4768-9B68-CBB37D881CD9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "While Loop", "While Loop", "{AE6CE445-2FAE-41D9-898E-52DC58598316}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers 1 to 100", "1. Numbers 1 to 100\1. Numbers 1 to 100.csproj", "{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Numbers 1 to 100", "1. Numbers 1 to 100\1. Numbers 1 to 100.csproj", "{D369C7B8-E54A-4001-8EE9-5657A8E8E51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Decreasing Numbers", "2. Decreasing Numbers\2. Decreasing Numbers.csproj", "{803CEDB0-03A8-44EA-A953-65C1495A899B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Decreasing Numbers", "2. Decreasing Numbers\2. Decreasing Numbers.csproj", "{803CEDB0-03A8-44EA-A953-65C1495A899B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Odd Number", "3. Odd Number\3. Odd Number.csproj", "{BB61BCB4-E752-4420-B93C-BF12A1E97474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Odd Number", "3. Odd Number\3. Odd Number.csproj", "{BB61BCB4-E752-4420-B93C-BF12A1E97474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Sequence 2k + 1", "4. Sequence 2k + 1\4. Sequence 2k + 1.csproj", "{2810E55A-70C8-4236-91F6-0700236F04A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -391,6 +393,10 @@ Global
 		{BB61BCB4-E752-4420-B93C-BF12A1E97474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB61BCB4-E752-4420-B93C-BF12A1E97474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB61BCB4-E752-4420-B93C-BF12A1E97474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2810E55A-70C8-4236-91F6-0700236F04A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2810E55A-70C8-4236-91F6-0700236F04A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2810E55A-70C8-4236-91F6-0700236F04A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2810E55A-70C8-4236-91F6-0700236F04A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -457,6 +463,7 @@ Global
 		{D369C7B8-E54A-4001-8EE9-5657A8E8E51C} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{803CEDB0-03A8-44EA-A953-65C1495A899B} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{BB61BCB4-E752-4420-B93C-BF12A1E97474} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
+		{2810E55A-70C8-4236-91F6-0700236F04A7} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
