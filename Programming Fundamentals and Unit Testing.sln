@@ -151,19 +151,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Number Processor", "7. N
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loops - Exercise", "Loops - Exercise", "{91550123-B0A3-474D-852D-E53291B20393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Power Of Number", "1. Power Of Number\1. Power Of Number.csproj", "{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Power Of Number", "1. Power Of Number\1. Power Of Number.csproj", "{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Multiplication Table", "2. Multiplication Table\2. Multiplication Table.csproj", "{64572E66-6B66-4A2C-92CD-5BB16504CB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Multiplication Table", "2. Multiplication Table\2. Multiplication Table.csproj", "{64572E66-6B66-4A2C-92CD-5BB16504CB55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Biggest Number", "3. Biggest Number\3. Biggest Number.csproj", "{FEFBC113-381A-4D13-A2F9-1BB16A46DD0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Biggest Number", "3. Biggest Number\3. Biggest Number.csproj", "{FEFBC113-381A-4D13-A2F9-1BB16A46DD0C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nested Loops", "Nested Loops", "{E922BCCC-8FD6-4157-AF2C-285A2803DE47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers From N to 1", "1. Numbers From N to 1\1. Numbers From N to 1.csproj", "{31489C59-4387-46AF-AB6B-C6AF5A9A39EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Numbers From N to 1", "1. Numbers From N to 1\1. Numbers From N to 1.csproj", "{31489C59-4387-46AF-AB6B-C6AF5A9A39EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Even Powers of 2", "2. Even Powers of 2\2. Even Powers of 2.csproj", "{F8719D22-B44F-49D7-8175-97B2452AF8E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Even Powers of 2", "2. Even Powers of 2\2. Even Powers of 2.csproj", "{F8719D22-B44F-49D7-8175-97B2452AF8E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Triangle of Stars", "3. Triangle of Stars\3. Triangle of Stars.csproj", "{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Triangle of Stars", "3. Triangle of Stars\3. Triangle of Stars.csproj", "{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Vowel Sum", "4. Vowel Sum\4. Vowel Sum.csproj", "{06AA558A-B95C-4742-ACE6-CB6E95598870}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -455,6 +457,10 @@ Global
 		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -531,6 +537,7 @@ Global
 		{31489C59-4387-46AF-AB6B-C6AF5A9A39EA} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
+		{06AA558A-B95C-4742-ACE6-CB6E95598870} = {91550123-B0A3-474D-852D-E53291B20393}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
