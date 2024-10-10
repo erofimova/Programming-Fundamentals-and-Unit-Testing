@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Numbers From N to 1", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Even Powers of 2", "2. Even Powers of 2\2. Even Powers of 2.csproj", "{F8719D22-B44F-49D7-8175-97B2452AF8E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Triangle of Stars", "3. Triangle of Stars\3. Triangle of Stars.csproj", "{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -449,6 +451,10 @@ Global
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -524,6 +530,7 @@ Global
 		{FEFBC113-381A-4D13-A2F9-1BB16A46DD0C} = {91550123-B0A3-474D-852D-E53291B20393}
 		{31489C59-4387-46AF-AB6B-C6AF5A9A39EA} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
+		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
