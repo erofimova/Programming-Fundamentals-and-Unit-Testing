@@ -153,6 +153,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loops - Exercise", "Loops -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Power Of Number", "1. Power Of Number\1. Power Of Number.csproj", "{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Multiplication Table", "2. Multiplication Table\2. Multiplication Table.csproj", "{64572E66-6B66-4A2C-92CD-5BB16504CB55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +425,10 @@ Global
 		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64572E66-6B66-4A2C-92CD-5BB16504CB55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64572E66-6B66-4A2C-92CD-5BB16504CB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64572E66-6B66-4A2C-92CD-5BB16504CB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64572E66-6B66-4A2C-92CD-5BB16504CB55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -494,6 +500,7 @@ Global
 		{007C875A-5FD4-4A26-9C76-A4D132F59575} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{53DC912F-F44A-43E0-8E6E-002DB402F0E2} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89} = {91550123-B0A3-474D-852D-E53291B20393}
+		{64572E66-6B66-4A2C-92CD-5BB16504CB55} = {91550123-B0A3-474D-852D-E53291B20393}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
