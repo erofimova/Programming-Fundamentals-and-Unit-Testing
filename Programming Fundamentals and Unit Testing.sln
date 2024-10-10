@@ -141,13 +141,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Decreasing Numbers", "2.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Odd Number", "3. Odd Number\3. Odd Number.csproj", "{BB61BCB4-E752-4420-B93C-BF12A1E97474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Sequence 2k + 1", "4. Sequence 2k + 1\4. Sequence 2k + 1.csproj", "{2810E55A-70C8-4236-91F6-0700236F04A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Sequence 2k + 1", "4. Sequence 2k + 1\4. Sequence 2k + 1.csproj", "{2810E55A-70C8-4236-91F6-0700236F04A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Sum Digits", "5. Sum Digits\5. Sum Digits.csproj", "{A01D491B-720A-4C6F-AA82-B493BDAAEEC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Sum Digits", "5. Sum Digits\5. Sum Digits.csproj", "{A01D491B-720A-4C6F-AA82-B493BDAAEEC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Number in Range", "6. Number in Range\6. Number in Range.csproj", "{007C875A-5FD4-4A26-9C76-A4D132F59575}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Number in Range", "6. Number in Range\6. Number in Range.csproj", "{007C875A-5FD4-4A26-9C76-A4D132F59575}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Number Processor", "7. Number Processor\7. Number Processor.csproj", "{53DC912F-F44A-43E0-8E6E-002DB402F0E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Number Processor", "7. Number Processor\7. Number Processor.csproj", "{53DC912F-F44A-43E0-8E6E-002DB402F0E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loops - Exercise", "Loops - Exercise", "{91550123-B0A3-474D-852D-E53291B20393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Power Of Number", "1. Power Of Number\1. Power Of Number.csproj", "{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -415,6 +419,10 @@ Global
 		{53DC912F-F44A-43E0-8E6E-002DB402F0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53DC912F-F44A-43E0-8E6E-002DB402F0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53DC912F-F44A-43E0-8E6E-002DB402F0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -485,6 +493,7 @@ Global
 		{A01D491B-720A-4C6F-AA82-B493BDAAEEC8} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{007C875A-5FD4-4A26-9C76-A4D132F59575} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
 		{53DC912F-F44A-43E0-8E6E-002DB402F0E2} = {AE6CE445-2FAE-41D9-898E-52DC58598316}
+		{504B8C2A-9E1A-4B0F-AAF5-75BFE4782C89} = {91550123-B0A3-474D-852D-E53291B20393}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
