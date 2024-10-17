@@ -165,7 +165,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Even Powers of 2", "2. E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Triangle of Stars", "3. Triangle of Stars\3. Triangle of Stars.csproj", "{904B0F64-9E9B-497B-9DBE-C24275FAE4CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Vowel Sum", "4. Vowel Sum\4. Vowel Sum.csproj", "{06AA558A-B95C-4742-ACE6-CB6E95598870}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Vowel Sum", "4. Vowel Sum\4. Vowel Sum.csproj", "{06AA558A-B95C-4742-ACE6-CB6E95598870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Division to 2, 3 and 4", "5. Division to 2, 3 and 4\5. Division to 2, 3 and 4.csproj", "{704CB480-1BD9-4648-980B-BC6B197C3B1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -461,6 +463,10 @@ Global
 		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06AA558A-B95C-4742-ACE6-CB6E95598870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704CB480-1BD9-4648-980B-BC6B197C3B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704CB480-1BD9-4648-980B-BC6B197C3B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704CB480-1BD9-4648-980B-BC6B197C3B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704CB480-1BD9-4648-980B-BC6B197C3B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -538,6 +544,7 @@ Global
 		{F8719D22-B44F-49D7-8175-97B2452AF8E3} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{904B0F64-9E9B-497B-9DBE-C24275FAE4CF} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{06AA558A-B95C-4742-ACE6-CB6E95598870} = {91550123-B0A3-474D-852D-E53291B20393}
+		{704CB480-1BD9-4648-980B-BC6B197C3B1D} = {91550123-B0A3-474D-852D-E53291B20393}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
