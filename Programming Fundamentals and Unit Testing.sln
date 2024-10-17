@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Special Bonus", "7. Spec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Account Balance", "8. Account Balance\8. Account Balance.csproj", "{B49D1AFD-B691-4C54-852B-5254CBE96AC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Building", "4. Building\4. Building.csproj", "{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -485,6 +487,10 @@ Global
 		{B49D1AFD-B691-4C54-852B-5254CBE96AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B49D1AFD-B691-4C54-852B-5254CBE96AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B49D1AFD-B691-4C54-852B-5254CBE96AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -566,6 +572,7 @@ Global
 		{9792E6AB-977F-405B-91C6-C51A309A120A} = {91550123-B0A3-474D-852D-E53291B20393}
 		{C129815F-61AD-43F4-BD4A-E8FF6DBD790B} = {91550123-B0A3-474D-852D-E53291B20393}
 		{B49D1AFD-B691-4C54-852B-5254CBE96AC3} = {91550123-B0A3-474D-852D-E53291B20393}
+		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
