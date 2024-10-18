@@ -183,6 +183,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Travel Savings", "6. Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Sum of Digits Calculator", "7. Sum of Digits Calculator\7. Sum of Digits Calculator.csproj", "{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Prime Numbers", "8. Prime Numbers\8. Prime Numbers.csproj", "{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -509,6 +511,10 @@ Global
 		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -594,6 +600,7 @@ Global
 		{99B7605A-7E23-4F33-AE39-98AAB6C6FC12} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
+		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
