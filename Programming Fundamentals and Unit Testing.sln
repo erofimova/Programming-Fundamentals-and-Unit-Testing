@@ -181,6 +181,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Number Pyramid", "5. Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Travel Savings", "6. Travel Savings\6. Travel Savings.csproj", "{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Sum of Digits Calculator", "7. Sum of Digits Calculator\7. Sum of Digits Calculator.csproj", "{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -503,6 +505,10 @@ Global
 		{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -587,6 +593,7 @@ Global
 		{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{99B7605A-7E23-4F33-AE39-98AAB6C6FC12} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
+		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
