@@ -203,6 +203,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Math Power", "6. Math Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Greater of Two Values", "7. Greater of Two Values\7. Greater of Two Values.csproj", "{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods - Exercise", "Methods - Exercise", "{C10A6AA7-DBE1-4898-A45F-3C3222010F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Vowels Count", "1. Vowels Count\1. Vowels Count.csproj", "{1D816810-7629-414D-9A0A-44A76CCB3815}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -565,6 +569,10 @@ Global
 		{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D816810-7629-414D-9A0A-44A76CCB3815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D816810-7629-414D-9A0A-44A76CCB3815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D816810-7629-414D-9A0A-44A76CCB3815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D816810-7629-414D-9A0A-44A76CCB3815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -659,6 +667,7 @@ Global
 		{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 		{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
+		{1D816810-7629-414D-9A0A-44A76CCB3815} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
