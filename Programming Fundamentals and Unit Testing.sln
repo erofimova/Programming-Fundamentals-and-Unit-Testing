@@ -211,6 +211,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Factorial Division", "2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Multiplication Sign", "3. Multiplication Sign\3. Multiplication Sign.csproj", "{333CB78D-58DF-46FA-8F6E-1849553DB7CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{BC9EDB88-9122-4A06-8C1E-679B52951D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -585,6 +587,10 @@ Global
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -682,6 +688,7 @@ Global
 		{1D816810-7629-414D-9A0A-44A76CCB3815} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{687ACBE2-7131-44FA-B9C6-737E16B46672} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
+		{BC9EDB88-9122-4A06-8C1E-679B52951D26} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
