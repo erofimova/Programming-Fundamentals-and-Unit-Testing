@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Calculate Rectangle Area
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Repeat String", "5. Repeat String\5. Repeat String.csproj", "{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Math Power", "6. Math Power\6. Math Power.csproj", "{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -553,6 +555,10 @@ Global
 		{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -645,6 +651,7 @@ Global
 		{0618E464-BB6C-4582-ACC0-009407DABA3B} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 		{11C00E35-B7F0-4C9D-8673-F5AB49151816} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 		{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
+		{0519DC5B-5BCA-4632-8368-6CC0109C3CB7} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
