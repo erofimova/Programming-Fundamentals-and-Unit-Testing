@@ -167,27 +167,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Triangle of Stars", "3. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Vowel Sum", "4. Vowel Sum\4. Vowel Sum.csproj", "{06AA558A-B95C-4742-ACE6-CB6E95598870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Division to 2, 3 and 4", "5. Division to 2, 3 and 4\5. Division to 2, 3 and 4.csproj", "{704CB480-1BD9-4648-980B-BC6B197C3B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Division to 2, 3 and 4", "5. Division to 2, 3 and 4\5. Division to 2, 3 and 4.csproj", "{704CB480-1BD9-4648-980B-BC6B197C3B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Special Number", "6. Special Number\6. Special Number.csproj", "{9792E6AB-977F-405B-91C6-C51A309A120A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Special Number", "6. Special Number\6. Special Number.csproj", "{9792E6AB-977F-405B-91C6-C51A309A120A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Special Bonus", "7. Special Bonus\7. Special Bonus.csproj", "{C129815F-61AD-43F4-BD4A-E8FF6DBD790B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Special Bonus", "7. Special Bonus\7. Special Bonus.csproj", "{C129815F-61AD-43F4-BD4A-E8FF6DBD790B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Account Balance", "8. Account Balance\8. Account Balance.csproj", "{B49D1AFD-B691-4C54-852B-5254CBE96AC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Account Balance", "8. Account Balance\8. Account Balance.csproj", "{B49D1AFD-B691-4C54-852B-5254CBE96AC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Building", "4. Building\4. Building.csproj", "{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Building", "4. Building\4. Building.csproj", "{BBBE3766-CCED-4563-BD3B-F6542BDD8B4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Number Pyramid", "5. Number Pyramid\5. Number Pyramid.csproj", "{99B7605A-7E23-4F33-AE39-98AAB6C6FC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Number Pyramid", "5. Number Pyramid\5. Number Pyramid.csproj", "{99B7605A-7E23-4F33-AE39-98AAB6C6FC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Travel Savings", "6. Travel Savings\6. Travel Savings.csproj", "{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Travel Savings", "6. Travel Savings\6. Travel Savings.csproj", "{D4C40773-6BBC-4744-94E6-D9AA4ABCDE88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Sum of Digits Calculator", "7. Sum of Digits Calculator\7. Sum of Digits Calculator.csproj", "{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Sum of Digits Calculator", "7. Sum of Digits Calculator\7. Sum of Digits Calculator.csproj", "{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Prime Numbers", "8. Prime Numbers\8. Prime Numbers.csproj", "{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8. Prime Numbers", "8. Prime Numbers\8. Prime Numbers.csproj", "{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{42705DD0-E6AE-4697-9E2F-D58C06C71A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Sign of Integer Numbers", "1. Sign of Integer Numbers\1. Sign of Integer Numbers.csproj", "{03797DF9-57C4-4383-B2A9-995B58A73331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sign of Integer Numbers", "1. Sign of Integer Numbers\1. Sign of Integer Numbers.csproj", "{03797DF9-57C4-4383-B2A9-995B58A73331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Grades", "2. Grades\2. Grades.csproj", "{065403C7-5016-48C7-ADEE-445A4E388016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -523,6 +525,10 @@ Global
 		{03797DF9-57C4-4383-B2A9-995B58A73331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03797DF9-57C4-4383-B2A9-995B58A73331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03797DF9-57C4-4383-B2A9-995B58A73331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065403C7-5016-48C7-ADEE-445A4E388016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065403C7-5016-48C7-ADEE-445A4E388016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065403C7-5016-48C7-ADEE-445A4E388016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065403C7-5016-48C7-ADEE-445A4E388016}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -610,6 +616,7 @@ Global
 		{28BC93F1-5E17-4BBB-96C1-B2BEBB7199F1} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{E0943DAB-BD9E-47BD-AFD8-5B211E048C1B} = {E922BCCC-8FD6-4157-AF2C-285A2803DE47}
 		{03797DF9-57C4-4383-B2A9-995B58A73331} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
+		{065403C7-5016-48C7-ADEE-445A4E388016} = {42705DD0-E6AE-4697-9E2F-D58C06C71A9B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
