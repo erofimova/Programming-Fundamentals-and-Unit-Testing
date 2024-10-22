@@ -221,6 +221,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{4DE9E5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Day of Week", "1. Day of Week\1. Day of Week.csproj", "{156AE715-388B-422B-9687-B883E0801A60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Sum an Array", "2. Sum an Array\2. Sum an Array.csproj", "{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -611,6 +613,10 @@ Global
 		{156AE715-388B-422B-9687-B883E0801A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{156AE715-388B-422B-9687-B883E0801A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{156AE715-388B-422B-9687-B883E0801A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -712,6 +718,7 @@ Global
 		{AC9EC96D-F82C-4F1B-A87B-AE032D016426} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{D03540C8-1305-462F-A390-297124453446} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{156AE715-388B-422B-9687-B883E0801A60} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
+		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
