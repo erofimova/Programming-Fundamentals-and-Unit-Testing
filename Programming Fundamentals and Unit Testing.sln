@@ -213,7 +213,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Multiplication Sign", "3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{BC9EDB88-9122-4A06-8C1E-679B52951D26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Multiply Evens by Odds", "5. Multiply Evens by Odds\5. Multiply Evens by Odds.csproj", "{AC9EC96D-F82C-4F1B-A87B-AE032D016426}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Multiply Evens by Odds", "5. Multiply Evens by Odds\5. Multiply Evens by Odds.csproj", "{AC9EC96D-F82C-4F1B-A87B-AE032D016426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Orders", "6. Orders\6. Orders.csproj", "{D03540C8-1305-462F-A390-297124453446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -597,6 +599,10 @@ Global
 		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03540C8-1305-462F-A390-297124453446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03540C8-1305-462F-A390-297124453446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03540C8-1305-462F-A390-297124453446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03540C8-1305-462F-A390-297124453446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -696,6 +702,7 @@ Global
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{BC9EDB88-9122-4A06-8C1E-679B52951D26} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{AC9EC96D-F82C-4F1B-A87B-AE032D016426} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
+		{D03540C8-1305-462F-A390-297124453446} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
