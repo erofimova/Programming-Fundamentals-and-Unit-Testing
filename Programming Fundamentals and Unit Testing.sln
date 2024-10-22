@@ -189,29 +189,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{4270
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Sign of Integer Numbers", "1. Sign of Integer Numbers\1. Sign of Integer Numbers.csproj", "{03797DF9-57C4-4383-B2A9-995B58A73331}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Grades", "2. Grades\2. Grades.csproj", "{065403C7-5016-48C7-ADEE-445A4E388016}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Grades", "2. Grades\2. Grades.csproj", "{065403C7-5016-48C7-ADEE-445A4E388016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Printing Triangle", "3. Printing Triangle\3. Printing Triangle.csproj", "{FDD7C9F9-5876-403E-8392-E0FF8988F52B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Printing Triangle", "3. Printing Triangle\3. Printing Triangle.csproj", "{FDD7C9F9-5876-403E-8392-E0FF8988F52B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Calculate Rectangle Area-void", "4. Calculate Rectangle Area\4. Calculate Rectangle Area-void.csproj", "{0618E464-BB6C-4582-ACC0-009407DABA3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Calculate Rectangle Area-void", "4. Calculate Rectangle Area\4. Calculate Rectangle Area-void.csproj", "{0618E464-BB6C-4582-ACC0-009407DABA3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Calculate Rectangle Area-returnValue", "4. Calculate Rectangle Area-returnValue\4. Calculate Rectangle Area-returnValue.csproj", "{11C00E35-B7F0-4C9D-8673-F5AB49151816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Calculate Rectangle Area-returnValue", "4. Calculate Rectangle Area-returnValue\4. Calculate Rectangle Area-returnValue.csproj", "{11C00E35-B7F0-4C9D-8673-F5AB49151816}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Repeat String", "5. Repeat String\5. Repeat String.csproj", "{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Repeat String", "5. Repeat String\5. Repeat String.csproj", "{08ECD871-EE05-43BA-BB1E-C3D3FF4D7552}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Math Power", "6. Math Power\6. Math Power.csproj", "{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Math Power", "6. Math Power\6. Math Power.csproj", "{0519DC5B-5BCA-4632-8368-6CC0109C3CB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Greater of Two Values", "7. Greater of Two Values\7. Greater of Two Values.csproj", "{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Greater of Two Values", "7. Greater of Two Values\7. Greater of Two Values.csproj", "{0955DDB4-91E8-489A-AF52-9D34BD4B8FD1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods - Exercise", "Methods - Exercise", "{C10A6AA7-DBE1-4898-A45F-3C3222010F63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Vowels Count", "1. Vowels Count\1. Vowels Count.csproj", "{1D816810-7629-414D-9A0A-44A76CCB3815}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Vowels Count", "1. Vowels Count\1. Vowels Count.csproj", "{1D816810-7629-414D-9A0A-44A76CCB3815}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Factorial Division", "2. Factorial Division\2. Factorial Division.csproj", "{687ACBE2-7131-44FA-B9C6-737E16B46672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Factorial Division", "2. Factorial Division\2. Factorial Division.csproj", "{687ACBE2-7131-44FA-B9C6-737E16B46672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Multiplication Sign", "3. Multiplication Sign\3. Multiplication Sign.csproj", "{333CB78D-58DF-46FA-8F6E-1849553DB7CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Multiplication Sign", "3. Multiplication Sign\3. Multiplication Sign.csproj", "{333CB78D-58DF-46FA-8F6E-1849553DB7CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{BC9EDB88-9122-4A06-8C1E-679B52951D26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{BC9EDB88-9122-4A06-8C1E-679B52951D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Multiply Evens by Odds", "5. Multiply Evens by Odds\5. Multiply Evens by Odds.csproj", "{AC9EC96D-F82C-4F1B-A87B-AE032D016426}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -591,6 +593,10 @@ Global
 		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC9EDB88-9122-4A06-8C1E-679B52951D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9EC96D-F82C-4F1B-A87B-AE032D016426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -689,6 +695,7 @@ Global
 		{687ACBE2-7131-44FA-B9C6-737E16B46672} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{333CB78D-58DF-46FA-8F6E-1849553DB7CE} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 		{BC9EDB88-9122-4A06-8C1E-679B52951D26} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
+		{AC9EC96D-F82C-4F1B-A87B-AE032D016426} = {C10A6AA7-DBE1-4898-A45F-3C3222010F63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
