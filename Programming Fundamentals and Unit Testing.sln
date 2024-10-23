@@ -225,6 +225,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Sum an Array", "2. Sum a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Reverse an Array", "3. Reverse an Array\3. Reverse an Array.csproj", "{3BBBBD67-8BD5-4D0E-9253-0BBE7453B169}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Even and Odd Subtraction", "4. Even and Odd Subtraction\4. Even and Odd Subtraction.csproj", "{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -623,6 +625,10 @@ Global
 		{3BBBBD67-8BD5-4D0E-9253-0BBE7453B169}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BBBBD67-8BD5-4D0E-9253-0BBE7453B169}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BBBBD67-8BD5-4D0E-9253-0BBE7453B169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -726,6 +732,7 @@ Global
 		{156AE715-388B-422B-9687-B883E0801A60} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
 		{C7F1DC7F-1B85-4EE3-8D49-BF7021E67D0A} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
 		{3BBBBD67-8BD5-4D0E-9253-0BBE7453B169} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
+		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
