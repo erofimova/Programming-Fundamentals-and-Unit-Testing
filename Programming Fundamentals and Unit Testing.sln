@@ -233,6 +233,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Equal Arrays", "1. Equal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Common Elements", "2. Common Elements\2. Common Elements.csproj", "{F102C275-B857-4CAF-B1CA-8AEC88C087A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Condense Array to Number", "3. Condense Array to Number\3. Condense Array to Number.csproj", "{274B90BF-CA63-4912-B098-FD6F41E0A0A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -643,6 +645,10 @@ Global
 		{F102C275-B857-4CAF-B1CA-8AEC88C087A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F102C275-B857-4CAF-B1CA-8AEC88C087A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F102C275-B857-4CAF-B1CA-8AEC88C087A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274B90BF-CA63-4912-B098-FD6F41E0A0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274B90BF-CA63-4912-B098-FD6F41E0A0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274B90BF-CA63-4912-B098-FD6F41E0A0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274B90BF-CA63-4912-B098-FD6F41E0A0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -749,6 +755,7 @@ Global
 		{FC6D833F-862A-43AF-9D8D-D35EDC0F5C80} = {4DE9E5E3-84C1-43AD-B7D9-1564A7A4B51B}
 		{0FA1543D-742D-4D8B-8F19-649458EB675A} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{F102C275-B857-4CAF-B1CA-8AEC88C087A7} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
+		{274B90BF-CA63-4912-B098-FD6F41E0A0A2} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
