@@ -247,6 +247,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lists", "Lists", "{FD02BC4E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Change List", "1. Change List\1. Change List.csproj", "{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. List of Products", "2. List of Products\2. List of Products.csproj", "{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -681,6 +683,10 @@ Global
 		{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -793,6 +799,7 @@ Global
 		{2A50BB8A-49F1-4ED9-898D-3DA80F83A4EC} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{586947E8-2B7C-4FD6-94E9-3D85A3AF3AC3} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{1B1C5D52-C1FE-411D-AC9E-530485AB47DE} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
+		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
