@@ -237,6 +237,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Condense Array to Number
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Magic Sum", "4. Magic Sum\4. Magic Sum.csproj", "{37F22D49-D803-4821-9BF3-FCC4F4255C24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Zig-Zag Arrays", "5. Zig-Zag Arrays\5. Zig-Zag Arrays.csproj", "{3E92423D-FFAE-4C88-B690-5DA09963FDA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -655,6 +657,10 @@ Global
 		{37F22D49-D803-4821-9BF3-FCC4F4255C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37F22D49-D803-4821-9BF3-FCC4F4255C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37F22D49-D803-4821-9BF3-FCC4F4255C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E92423D-FFAE-4C88-B690-5DA09963FDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E92423D-FFAE-4C88-B690-5DA09963FDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E92423D-FFAE-4C88-B690-5DA09963FDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E92423D-FFAE-4C88-B690-5DA09963FDA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -763,6 +769,7 @@ Global
 		{F102C275-B857-4CAF-B1CA-8AEC88C087A7} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{274B90BF-CA63-4912-B098-FD6F41E0A0A2} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{37F22D49-D803-4821-9BF3-FCC4F4255C24} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
+		{3E92423D-FFAE-4C88-B690-5DA09963FDA7} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
