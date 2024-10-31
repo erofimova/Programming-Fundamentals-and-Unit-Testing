@@ -255,6 +255,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lists - Exercise", "Lists -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.0 Change List", "1.0 Change List\1.0 Change List.csproj", "{65E691D7-E24B-42ED-A991-DEEEC2F8AD18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. House Party", "2. House Party\2. House Party.csproj", "{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -701,6 +703,10 @@ Global
 		{65E691D7-E24B-42ED-A991-DEEEC2F8AD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E691D7-E24B-42ED-A991-DEEEC2F8AD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E691D7-E24B-42ED-A991-DEEEC2F8AD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -816,6 +822,7 @@ Global
 		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
 		{02FE5806-437E-40DA-A033-BBDB3BF26E5A} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
 		{65E691D7-E24B-42ED-A991-DEEEC2F8AD18} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
+		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
