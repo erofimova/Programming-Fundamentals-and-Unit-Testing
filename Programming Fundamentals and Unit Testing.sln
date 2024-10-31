@@ -259,6 +259,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. House Party", "2. House 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. List Operations", "3. List Operations\3. List Operations.csproj", "{20CD493D-26D6-497E-9E82-DA837ECF9A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. List Manipulation Basics", "4. List Manipulation Basics\4. List Manipulation Basics.csproj", "{875D65D4-BABE-48D5-A80C-303DAE21774F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -713,6 +715,10 @@ Global
 		{20CD493D-26D6-497E-9E82-DA837ECF9A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20CD493D-26D6-497E-9E82-DA837ECF9A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20CD493D-26D6-497E-9E82-DA837ECF9A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875D65D4-BABE-48D5-A80C-303DAE21774F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875D65D4-BABE-48D5-A80C-303DAE21774F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875D65D4-BABE-48D5-A80C-303DAE21774F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875D65D4-BABE-48D5-A80C-303DAE21774F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -830,6 +836,7 @@ Global
 		{65E691D7-E24B-42ED-A991-DEEEC2F8AD18} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
 		{B6980B5E-C8C1-4DE9-B81E-56DA857AA67E} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
 		{20CD493D-26D6-497E-9E82-DA837ECF9A38} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
+		{875D65D4-BABE-48D5-A80C-303DAE21774F} = {011F5222-66D9-46FD-82E1-8D61E37E49FD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
