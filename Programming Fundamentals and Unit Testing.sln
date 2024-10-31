@@ -231,23 +231,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays - Exercise", "Arrays
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Equal Arrays", "1. Equal Arrays\1. Equal Arrays.csproj", "{0FA1543D-742D-4D8B-8F19-649458EB675A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Common Elements", "2. Common Elements\2. Common Elements.csproj", "{F102C275-B857-4CAF-B1CA-8AEC88C087A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. Common Elements", "2. Common Elements\2. Common Elements.csproj", "{F102C275-B857-4CAF-B1CA-8AEC88C087A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Condense Array to Number", "3. Condense Array to Number\3. Condense Array to Number.csproj", "{274B90BF-CA63-4912-B098-FD6F41E0A0A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3. Condense Array to Number", "3. Condense Array to Number\3. Condense Array to Number.csproj", "{274B90BF-CA63-4912-B098-FD6F41E0A0A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Magic Sum", "4. Magic Sum\4. Magic Sum.csproj", "{37F22D49-D803-4821-9BF3-FCC4F4255C24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4. Magic Sum", "4. Magic Sum\4. Magic Sum.csproj", "{37F22D49-D803-4821-9BF3-FCC4F4255C24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Zig-Zag Arrays", "5. Zig-Zag Arrays\5. Zig-Zag Arrays.csproj", "{3E92423D-FFAE-4C88-B690-5DA09963FDA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5. Zig-Zag Arrays", "5. Zig-Zag Arrays\5. Zig-Zag Arrays.csproj", "{3E92423D-FFAE-4C88-B690-5DA09963FDA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Array Rotation", "6. Array Rotation\6. Array Rotation.csproj", "{2A50BB8A-49F1-4ED9-898D-3DA80F83A4EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6. Array Rotation", "6. Array Rotation\6. Array Rotation.csproj", "{2A50BB8A-49F1-4ED9-898D-3DA80F83A4EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Top Integers", "7. Top Integers\7. Top Integers.csproj", "{586947E8-2B7C-4FD6-94E9-3D85A3AF3AC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Top Integers", "7. Top Integers\7. Top Integers.csproj", "{586947E8-2B7C-4FD6-94E9-3D85A3AF3AC3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lists", "Lists", "{FD02BC4E-26DB-44D0-9137-159547B637C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Change List", "1. Change List\1. Change List.csproj", "{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Change List", "1. Change List\1. Change List.csproj", "{1B1C5D52-C1FE-411D-AC9E-530485AB47DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. List of Products", "2. List of Products\2. List of Products.csproj", "{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. List of Products", "2. List of Products\2. List of Products.csproj", "{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Remove Negatives and Reverse", "3. Remove Negatives and Reverse\3. Remove Negatives and Reverse.csproj", "{02FE5806-437E-40DA-A033-BBDB3BF26E5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -687,6 +689,10 @@ Global
 		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02FE5806-437E-40DA-A033-BBDB3BF26E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02FE5806-437E-40DA-A033-BBDB3BF26E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02FE5806-437E-40DA-A033-BBDB3BF26E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02FE5806-437E-40DA-A033-BBDB3BF26E5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -800,6 +806,7 @@ Global
 		{586947E8-2B7C-4FD6-94E9-3D85A3AF3AC3} = {EA1AB67C-F14B-4C74-8ED5-36876FE0746E}
 		{1B1C5D52-C1FE-411D-AC9E-530485AB47DE} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
 		{1F91AEDA-67C8-47AF-98DB-E49BA15B76B6} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
+		{02FE5806-437E-40DA-A033-BBDB3BF26E5A} = {FD02BC4E-26DB-44D0-9137-159547B637C3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AFDEF046-2102-4E1C-8ED5-C778B2171D48}
